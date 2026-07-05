@@ -1,0 +1,13 @@
+<svg viewBox="0 0 640 210" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="ffLogoTitle">
+  <title id="ffLogoTitle">FinneFarm, Solf</title>
+  <g fill="none" stroke="#33422C" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- minimal leaf / row-crop mark -->
+    <path d="M70 150c-4-34 10-62 40-78 30-16 0 40-14 56-14 16-26 22-26 22Z" />
+    <path d="M70 150c8-30 26-50 52-58" />
+    <path d="M40 150h100" />
+  </g>
+  <text x="180" y="98" font-family="'Cormorant Garamond', Georgia, serif" font-size="46" letter-spacing="1" fill="#33422C">FinneFarm</text>
+  <line x1="182" y1="118" x2="560" y2="118" stroke="#C77B3B" stroke-width="2" />
+  <text x="182" y="146" font-family="'Nunito Sans', Arial, sans-serif" font-size="18" letter-spacing="1" fill="#4A5A3F">Vihanneksia ja yrttejä Sulvasta</text>
+  <text x="182" y="172" font-family="'Nunito Sans', Arial, sans-serif" font-size="15" letter-spacing="3" fill="#C77B3B">SOLF · KORSHOLM</text>
+</svg>
